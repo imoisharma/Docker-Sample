@@ -1,6 +1,6 @@
 # Docker Sample
 
-## What This Is
+## What This Is About
 
 This is a workshop which introduces basic Docker concepts - how to use it, why it's important, and where to get more information afterwards. This workshop is designed to be self-running, and contains practical and conceptual information inside the repository.
 
